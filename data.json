@@ -1,0 +1,101 @@
+{
+    "name": "Angewandte KI",
+    "ziel_ects": 180,
+    "student_name": "Silas Ferreira da Silva",
+    "matrikelnummer": "IU14151396",
+    "aktuelles_semester": 2,
+    "zieldatum": "01.01.2028",
+    "semester": [
+        {
+            "nummer": 1,
+            "module": [
+                {
+                    "modul_id": 1,
+                    "name": "Artificial Intelligence",
+                    "ects": 5,
+                    "typ": "Pflichtmodul",
+                    "pruefungen": [
+                        {
+                            "versuch": 1,
+                            "note": 2.3
+                        }
+                    ]
+                },
+                {
+                    "modul_id": 2,
+                    "name": "Einfuehrung in das wissenschaftliche Arbeiten fuer IT und Technik",
+                    "ects": 5,
+                    "typ": "Pflichtmodul",
+                    "pruefungen": [
+                        {
+                            "versuch": 1,
+                            "note": 1.7
+                        }
+                    ]
+                },
+                {
+                    "modul_id": 3,
+                    "name": "Mathematik: Analysis",
+                    "ects": 5,
+                    "typ": "Pflichtmodul",
+                    "pruefungen": [
+                        {
+                            "versuch": 1,
+                            "note": 3.3
+                        }
+                    ]
+                },
+                {
+                    "modul_id": 4,
+                    "name": "Mathematik: Lineare Algebra",
+                    "ects": 5,
+                    "typ": "Pflichtmodul",
+                    "pruefungen": [
+                        {
+                            "versuch": 1,
+                            "note": 3.3
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nummer": 2,
+            "module": [
+                {
+                    "modul_id": 5,
+                    "name": "Statistik - Wahrscheinlichkeit und deskriptive Statistik",
+                    "ects": 5,
+                    "typ": "Pflichtmodul",
+                    "pruefungen": [
+                        {
+                            "versuch": 1,
+                            "note": 1.7
+                        }
+                    ]
+                },
+                {
+                    "modul_id": 6,
+                    "name": "Einfuehrung in die Programmierung mit Python",
+                    "ects": 5,
+                    "typ": "Pflichtmodul",
+                    "pruefungen": []
+                },
+                {
+                    "modul_id": 7,
+                    "name": "Projekt: Objektorientierte und funktionale Programmierung mit Python",
+                    "ects": 5,
+                    "typ": "Pflichtmodul",
+                    "pruefungen": []
+                },
+                {
+                    "modul_id": 8,
+                    "name": "Statistik - Induktive Statistik",
+                    "ects": 5,
+                    "typ": "Pflichtmodul",
+                    "pruefungen": []
+                }
+            ]
+        }
+    ]
+}
